@@ -1,10 +1,10 @@
 import React from "react";
-import QrCode from "./component/qrcode";
+import QrCode from "./component/QrCode";
 
 const App = () => {
   return (
     <div>
-      <QrCode/>
+      <QrCode />
     </div>
   );
 };
